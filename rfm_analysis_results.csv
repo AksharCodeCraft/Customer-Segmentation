@@ -1,0 +1,11 @@
+CustomerID,Recency,Frequency,Monetary,RFM_Score,RFM_Segment
+1,481,5,752.5,8,Medium Value
+2,486,3,602.25,5,Low Value
+3,491,8,602.0,9,Medium Value
+4,496,2,600.0,4,Low Value
+5,501,6,753.0,12,Top Value
+6,506,4,701.0,10,High Value
+7,511,7,635.25,12,Top Value
+8,516,1,400.0,6,Low Value
+9,521,5,752.5,12,Top Value
+10,527,3,602.25,9,Medium Value

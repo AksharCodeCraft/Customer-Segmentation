@@ -1,0 +1,11 @@
+CustomerID,RFM_Segment,Behavioral_Segment,Deep_Learning_Segment,Final_Segment,Final_Segment_Label
+1,High,1,1,2,Behavioral-Focused
+2,Medium,4,4,1,High-Value Traditional
+3,Medium-High,2,2,1,High-Value Traditional
+4,Medium-Low,0,0,0,Low-Value Traditional
+5,High,1,1,2,Behavioral-Focused
+6,Medium,1,1,1,High-Value Traditional
+7,Medium,3,2,1,High-Value Traditional
+8,Low,0,3,4,Mixed Profile
+9,Medium-Low,1,1,0,Low-Value Traditional
+10,Low,4,4,3,Deep-Learning Identified

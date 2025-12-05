@@ -1,0 +1,11 @@
+CustomerID,Purchase Frequency,Page Views,Time on Site (minutes),Cart Abandonment Rate,Deep_Learning_Segment,Purchase_Mean
+1,5,25,15.5,0.2,2,5
+2,3,18,12.0,0.3,3,3
+3,8,30,20.0,0.1,1,8
+4,2,15,8.5,0.4,0,2
+5,6,22,14.0,0.2,2,6
+6,4,28,16.5,0.3,3,4
+7,7,35,22.0,0.1,1,7
+8,1,12,7.0,0.5,0,1
+9,5,24,15.0,0.2,2,5
+10,3,20,13.0,0.3,3,3
